@@ -1,5 +1,5 @@
 // Parking_lot.cpp : Defines the entry point for the console application.
-//
+//Design a parking lot using object-oriented principles.
 #include "stdafx.h"
 #include "ParkingLot.h"
 #include <iostream>
